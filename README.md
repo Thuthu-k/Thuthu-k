@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Thuthu-k
-- 👀 I’m interested in applying my software skills in the world of finance. A lot of breaches can be minimized with properly built systems.
-- 🌱 I’m currently learning about data structures and algorithms, im using c++, python and Java. I like how someof these algorithms perform the same task but they are very different.
-- 💞️ I’m looking to collaborate on any fun and challenging problems, specifically in security.
+- 👋 Hi, I’m @Thuthukani
+- 👀 I’m interested in applying my programming and math skills in the world of finance, specifically networking and cybersecurity.
+- 💞️ I’m looking to collaborate on any fun and challenging problems, specifically in networking and security.
 - 📫 How to reach me ... thuthusbu10@gmail.com
 
 <!---
